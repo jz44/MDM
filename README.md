@@ -1,2 +1,1 @@
 # MDM
-Mixture Density Model
